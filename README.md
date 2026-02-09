@@ -34,7 +34,7 @@ The dashboard is designed to provide clear business insights for decision-making
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard Preview](Images/overview.png)
+![Dashboard Preview](images/overview.png)
 
 ---
 
